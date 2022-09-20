@@ -230,8 +230,9 @@ Friendship
 10.	W ould it be difficult if your friend was your boss or subordinate? 
 11.	Is it a good idea to start business with a friend? 
 12.	Is it possible to establish a strong friendship through the Internet? 
-13.	Is it possible to have the best friend from a different generation? 14.  Is it possible to have the best friend from a different social or cultural                 background? 
-15.	Is it possible to have the best friend of the opposite sex without falling in             love? 
+13.	Is it possible to have the best friend from a different generation?
+14.	Is it possible to have the best friend from a different social or cultural background? 
+15.	Is it possible to have the best friend of the opposite sex without falling in love? 
 16.	Is it possible to be friends with an ex-spouse? 
 17.	Is it possible to be friends with your teacher? 
 18.	Can you imagine your life without friends? 
@@ -391,32 +392,33 @@ Sport
 13.	How do you feel about sports fans? 
 14.	W hat do you think about extreme sports? 
 15.	How do you feel about gambling on sports events? 
-16.	W hat are the advantages for a country to hold sports competitions? 17.  W hat are the disadvantages for a country to hold sports competitions? 
-18.  W hat would life be like without sport? 
+16.	What are the advantages for a country to hold sports competitions?
+17.	What are the disadvantages for a country to hold sports competitions? 
+18. What would life be like without sport? 
  
 Work 
-1.	W hy do we need to work? 
-2.	W hat job did you dream of in your childhood? 
+1.	Why do we need to work? 
+2.	What job did you dream of in your childhood? 
 3.	Did you choose your current job by economic necessity? 
-4.	W hat do you like about your present job? 
-5.	W hat don't you like about your present job? 
-6.	W hat your working conditions would you like to change? 
+4.	What do you like about your present job? 
+5.	What don't you like about your present job? 
+6.	What your working conditions would you like to change? 
 7.	Are you looking forward to your retirement? 
 8.	Do you ever imagine being someone else? 
-9.	W hat is the most exciting job? 
-10.	W hat is the most boring job? 
+9.	What is the most exciting job? 
+10.	What is the most boring job? 
 11.	Are some jobs overpaid? 
 12.	Is it better to be a boss or a subordinate? 
 13.	Do you know any workaholic? 
 14.	W ho are better workers: men or women? 
 15.	Is housework a real work? 
-16.	W ho is more responsible for employment: a government or a person? 
+16.	Who is more responsible for employment: a government or a person? 
 17.	If you had a huge amount of money, would you still work? 
 18.	W hat would life be like if we did not have to work? 
  
 Success 
-1.	W hat is success? 
-2.	W ho is the most successful person? 
+1.	What is success? 
+2.	Who is the most successful person? 
 3.	Do you like reading or watching stories of success? 
 4.	Are successful people happier than others? 
 5.	How do you measure success? 
@@ -478,8 +480,9 @@ Internet
 2.	W hen did you first use the Internet? 
 3.	How can the Internet be improved? 
 4.	Do you think our lives have been improved by the Internet? 
-5.	Do you have any ideas or ambitions to start an Internet company? 6. W hat problems does the Internet create? W hat problems does it solve? 
-7. Do you think that it is important for schools to have Internet access? Why? 
+5.	Do you have any ideas or ambitions to start an Internet company?
+6.	What problems does the Internet create? W hat problems does it solve? 
+7.  Do you think that it is important for schools to have Internet access? Why? 
 8.	Can you believe all the information that is published (available) on the Internet? 
 9.	Do you think that the Internet will replace Libraries? 
 10.	W hat is Copyright? How do we break Copyright law on the Internet? 
@@ -520,9 +523,10 @@ Cultural Differences
 6.	Are there many people of different cultures in your country? Are you friends with any? 
 7.	Have you ever felt confused by the actions of someone from another culture? 
 8.	W ho in your culture do you admire most? 
-9.W hat is in your culture that you most proud about? W hy do you think culture is important? 
-10. If you could change one thing about your culture, what would it be? 11. W ould you ever consider marrying or dating someone from another culture? 
-12.W ould you ever consider living permanently in a country other than your home country? W hy or why not? 
+9.  What is in your culture that you most proud about? W hy do you think culture is important? 
+10. If you could change one thing about your culture, what would it be?
+11. Would you ever consider marrying or dating someone from another culture? 
+12. Would you ever consider living permanently in a country other than your home country? W hy or why not? 
  
 Beach 
 1.	W hat do people do at the beach? 
@@ -587,7 +591,8 @@ The Unexplained
 12.	Do you believe there is life on other planets? 
 13.	W hat is the most frightening thing that has ever happened to you? 
 14.	If you had the chance to spend the night in a haunted house would you? 
-15.	Do you know of anyone who was miraculously healed of a disease? 16. If you could travel back or forward in time what year would you choose? W hy? 
+15.	Do you know of anyone who was miraculously healed of a disease?
+16.	If you could travel back or forward in time what year would you choose? W hy? 
 17.	Do you believe you can hypnotize a person and make them do things they don't want to? 
 18.	Have you ever known something was going to happen before it did? How do you explain? 
 19.	Do you believe in the Loch Ness M onster in Scotland? W hy? 
@@ -639,7 +644,8 @@ The signs of attention - we all need them, do not us?
 2.	In what situations is it better to avoid showing the signs of attention and hide your feelings? 
 3.	W hat signs of attention do you value most? W hose attention is the most important to you? 
 4.	Is there any difference between men and women in terms of showing attention? 
-5.	In what situations you cannot succeed without showing your attention? 6. Are there any annoying or unwanted attentions that you strongly dislike? W ill you describe your behavior in such situation? 
+5.	In what situations you cannot succeed without showing your attention?
+6.	Are there any annoying or unwanted attentions that you strongly dislike? W ill you describe your behavior in such situation? 
  
 A Problem of Choice 
 1.	What do you understand by the problem of choice? Does this problem really exist? How much does it influence people’s life? 
